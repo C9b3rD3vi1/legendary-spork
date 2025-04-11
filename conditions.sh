@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Demonstration of for conditions and variable assignment in bash
+# Demonstration of for conditions and operators in bash
 
 #Comparison Operators:
 
@@ -9,6 +9,7 @@
 #-lt (less than), -gt (greater than)
 
 #-z (string is empty)
+
 echo "Comparison Operators:"
 echo "---------------------"
 
