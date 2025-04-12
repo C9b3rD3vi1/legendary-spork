@@ -17,8 +17,7 @@
 echo "Comparison Operators:"
 echo "---------------------"
 
-number=1
-echo "Number: $Age"
+echo "Number: $number"
 
 read -p "Enter Age: " age  # Prompt user for input
 
