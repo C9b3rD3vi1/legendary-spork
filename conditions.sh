@@ -4,9 +4,13 @@
 
 #Comparison Operators:
 
-#-eq (equal), -ne (not equal)
+#-eq (equal), 
 
-#-lt (less than), -gt (greater than)
+#-ne (not equal)
+
+#-lt (less than),
+
+#-gt (greater than)
 
 #-z (string is empty)
 
