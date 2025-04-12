@@ -9,6 +9,7 @@ echo "---------------------"
 read -p "Enter a number: " num  # Prompt user for input
 
 random_number=$((RANDOM % 10 + 1))  # Generate a random number between 1 and 10
+
 # Check if the entered number is equal to the random number
 if [ $num -eq $random_number ]; then
     echo "Congratulations! You guessed the number."
