@@ -6,8 +6,10 @@
 # Example of case statement
 
 
-echo "Enter Your Input: "
-read UserInput  # Prompt user for input
+echo "This is a case statement example."
+echo "-----------------------------"
+read -p " Enter Your Choice :" UserInput  # Prompt user for input
+
 
 case $UserInput in
     "yes")
