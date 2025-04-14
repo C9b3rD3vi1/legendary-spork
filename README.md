@@ -24,6 +24,7 @@ chmod +x scriptname.sh
 ./scriptname.sh
 
 
+
 ![loops in bash](./loops.png)
 
 ![if else](/if_else.png)
