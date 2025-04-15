@@ -15,3 +15,6 @@ function add_numbers() {
     local sum=$((num1 + num2))  # Calculate the sum
     echo "The sum of $num1 and $num2 is: $sum"
 }
+
+welcome_message  # Call the welcome message function
+add_numbers 5 10  # Call the add_numbers function with arguments 5 and 10
