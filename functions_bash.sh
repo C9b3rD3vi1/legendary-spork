@@ -2,9 +2,11 @@
 
 # This script demonstrates the use of functions in bash
 # Functions are reusable blocks of code that can be called multiple times
-# Function to display a welcome message
+# Function and its parameters arguments
+# Example of a simple function
+
 function welcome_message() {
-    echo "Welcome to the Bash Functions Tutorial!"
+    echo "Welcome to the Bash Functions Tutorial $1!"
     echo "----------------------------------------"
 }
 
@@ -16,5 +18,7 @@ function add_numbers() {
     echo "The sum of $num1 and $num2 is: $sum"
 }
 
-welcome_message  # Call the welcome message function
+
+
+welcome_message "C9b3rD3vil" # Call the welcome message function
 add_numbers 5 10  # Call the add_numbers function with arguments 5 and 10
