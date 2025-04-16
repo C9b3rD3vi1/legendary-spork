@@ -1,6 +1,6 @@
 # legendary-spork
 
-# 🐚 Bash Scripting Practice
+## 🐚 Bash Scripting Practice
 
 This repository contains a collection of Bash scripts I created while learning shell scripting. It's a mix of basic utilities, command-line experiments, and small automations built for practice and exploration.
 
@@ -9,7 +9,6 @@ This repository contains a collection of Bash scripts I created while learning s
 - Reinforce foundational Linux and Bash skills
 - Automate simple tasks
 - Document my learning process
-
 
 ## 🚀 How to Use
 
