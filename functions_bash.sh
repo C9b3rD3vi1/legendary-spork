@@ -20,5 +20,5 @@ function add_numbers() {
 
 
 
-welcome_message "C9b3rD3vil" # Call the welcome message function
+welcome_message "C9b3rD3vil" # Call the welcome message function with argument "C9b3rD3vil"
 add_numbers 5 10  # Call the add_numbers function with arguments 5 and 10
